@@ -434,7 +434,7 @@ void runThread1(){
 }
 string ss[10];
 void makePoem(){
-	ss[0]= "Chuc mung em gai sinh nhat!";
+	ss[0]= "Chuc mung Nguoi yeu tui sinh nhat vui !";
 	ss[1]= "Em bay gio da, trang tuan doi muoi";
 	ss[2]= "Tuoi va xinh xan nhu hoa";
 	ss[3]= "Them mot tuoi moi, lai cang dep hon";
